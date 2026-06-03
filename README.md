@@ -16,3 +16,4 @@ Project Structure:
 - data_ingestion.py
 - live_nav_fetch.py
 - requirements.txt
+- Loaded and analyzed all 10 CSV datasets
